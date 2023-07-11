@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sharad 👋</h1>
-***
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 
