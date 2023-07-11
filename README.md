@@ -1,5 +1,4 @@
-### Hi there, I'm Sharad 👋
-
+<h1 align="center">Hi there, I'm Sharad 👋</h1>
 ***
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -7,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Working as a Data Scientist at URMC.
 - 🎓 &nbsp; Pursuing Master's in Data Science at the University of Rochester
-- 🌱 &nbsp; Learning more about Cloud Architecture, Large Language Models, and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Large Language Models, Cloud Architecture, and Artificial Intelligence.
 - ♟️: &nbsp; Playing chess and watching football as hobbies.
 
 <h3>🛠 Tech Stack</h3>
